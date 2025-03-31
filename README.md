@@ -1,10 +1,15 @@
 # GitHub Kaggle Project AJL Team 7 ReadMe
 
 | Chinonso Morsindi | @ChinonsoM | Selected and finetuned ideal pre-trained models for project, conducted data exploration and visualization. |
+
 | Tanisha Jain | @tanisha.jainn | Loading datasets and converted the images into Tensor Flows |
+
 | Shiven Umeshbhai | @AliceDoe | Built CNN model, performed data augmentation |
+
 | Grace Cao | @GuangjingCao | Built and fine-tuned ResNet-based transfer learning models for image classification using TensorFlow; Applied data augmentation and layer freezing to improve generalization.|
+
 | Sophia Huang | @2018Shmn | Implemented explainability tools |
+
 | Lam Nguyen | @lamphuong02 | Data exploration, Examine References |
 
 ---
