@@ -81,8 +81,12 @@ The primary evaluation metric was the weighted average F1 score, which accounts 
 ---
 
 ## **📈 Results & Key Findings** 
+* Performance metrics in Kaggle Leaderboard score in Private is 0.05395
+* 
+* Performance metrics in Kaggle Leaderboard score in Public is 0.04708
+* 
+* The best performance metrics that we got is 0.22
 
----
 
 ## **🖼️ Impact Narrative**
 
