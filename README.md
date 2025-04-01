@@ -1,12 +1,12 @@
 # GitHub Kaggle Project AJL Team 7 ReadMe
 
-| Chinonso Morsindi | @ChinonsoM | Selected and finetuned ideal pre-trained models for project, conducted data exploration and visualization. |
+| Chinonso Morsindi | @ChinonsoM | Selected and finetuned ideal pre-trained models for project, conducted data exploration and visualization |
 
 | Tanisha Jain | @tanisha.jainn | Loading datasets and converted the images into Tensor Flows |
 
 | Shiven Umeshbhai | @AliceDoe | Built CNN model, performed data augmentation |
 
-| Grace Cao | @GuangjingCao | Built and fine-tuned ResNet-based transfer learning models for image classification using TensorFlow; Applied data augmentation and layer freezing to improve generalization.|
+| Grace Cao | @GuangjingCao | Built and fine-tuned ResNet-based transfer learning models for image classification using TensorFlow; Applied data augmentation and layer freezing to improve generalization |
 
 | Sophia Huang | @2018Shmn | Implemented explainability tools |
 
@@ -44,6 +44,10 @@ Evaluate and predict
 ---
 
 ## **📊 Data Exploration**
+
+To explore the data, we used various plots, graphs, and heatmaps to visualize different distributions and relationships across the datasets provded by the AJL Kaggle competition.
+* No additional sources were used and we will assume that all skin conditions in the provided dataset have been labeled correctly
+* Challenges faced when working with this image dataset is that we are using real-life photos that likely contain some noise or distortion across each sample which could reduce our model accuracy
 
 ---
 
