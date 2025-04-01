@@ -45,7 +45,7 @@ Evaluate and predict
 
 ## **📊 Data Exploration**
 
-To explore the data, we used various plots, graphs, and heatmaps to visualize different distributions and relationships across the datasets provded by the AJL Kaggle competition.
+To explore the data, we used various bar graphs, pie charts, and heatmaps to visualize different distributions and relationships across the datasets provded by the AJL Kaggle competition.
 * No additional sources were used and we will assume that all skin conditions in the provided dataset have been labeled correctly
 * Challenges faced when working with this image dataset is that we are using real-life photos that likely contain some noise or distortion across each sample which could reduce our model accuracy
 
