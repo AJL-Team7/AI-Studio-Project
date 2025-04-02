@@ -41,7 +41,7 @@ Evaluate and predict
 
 ## **🏗️ Project Overview**
 
-For our AI project, we worked on a Kaggle competition where we trained a model to recognize 21 types of skin conditions using deep learning. We used popular models like EfficientNetB0 and ResNet50, and applied transfer learning so that our model could learn faster and better. We also added things like image rotation and flipping to make our dataset more diverse and help the model generalize. Our best model achieved an F1 score of 0.22, and even though the competition scores were lower, we learned a lot from the experience.
+We trained a model to recognize 21 types of skin conditions using deep learning. We used popular models like EfficientNetB0 and ResNet50, and applied transfer learning so that our model could learn faster and better. We also added things like image rotation and flipping to make our dataset more diverse and help the model generalize. Our best model achieved an F1 score of 0.22, and even though the competition scores were lower, we learned a lot from the experience.
 ---
 
 ## **📊 Data Exploration**
